@@ -2,18 +2,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 
 body {
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(10, 10, 10);
     color: rgba(255, 255, 255, 0.842);
     
-    font-family: 'Playfair Display', serif; 
+    font-family: Arial, Helvetica, sans-serif
 }
 
 a {
-    color: coral;
+    color: rgb(255, 0, 0);
 }
 
 .titulos {
 
     font-family: 'Playfair Display', serif;
-    color: white;
+    color: rgba(92, 74, 255, 0.767);
+   
 }
